@@ -75,9 +75,7 @@ __storage - monitoring - resupply__
 <img src="050.png" width="1000"></img>
 
 ---
-<img style="display:block;float:none;height:800px"/>
-
-# image: battery or scale alone
+<img src="060.jpg" width="1000"></img>
 
 ### ner laidu, turi veikt nuo baterijos
 ### nenoriu keist baterijos daznai
