@@ -121,11 +121,19 @@ __storage - monitoring - resupply__
 ---
 <img style="display:block;float:none;height:800px"/>
 
-# grafana 1 year
+# grafana 1 year (365 days)
 <img src="110.png" width="1000"></img>
 
 ### prabego metai, baterija nusedo iki 3.8V
 ### isvada kad low energy veikia :smile:
+
+<img style="display:block;float:none;height:800px"/>
+
+# grafana 500 days
+<img src="114_500d.png" width="1000"></img>
+
+### kol pasiruosiau pristatymui praejo ir 500 dienu
+### batareika dar nenusedo
 
 ---
 <img style="display:block;float:none;height:800px"/>
